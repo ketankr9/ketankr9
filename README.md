@@ -2,8 +2,6 @@
 
 <!-- **ketankr9/ketankr9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working with [skyflow.com](https://skyflow.com) on privacy vault as an API service.
 - 🌱 I’m currently learning golang.
 - 💬 Ask me about startups and tech.
