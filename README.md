@@ -2,8 +2,8 @@
 
 <!-- **ketankr9/ketankr9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working with [skyflow.com](https://skyflow.com) on privacy vault as an API service.
-- 🌱 I’m currently learning golang.
+- 🔭 I’m currently working with Google.
+- 🌱 And my primary language is C++ currently, still learning.
 - 💬 Ask me about startups and tech.
 - 📫 How to reach me: [linkedin/utsav-krishnan-iit-bhu](https://www.linkedin.com/in/utsav-krishnan-iit-bhu/)
 - ⚡ Fun fact: I take interest in almost everything :)
